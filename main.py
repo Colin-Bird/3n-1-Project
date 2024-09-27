@@ -71,5 +71,7 @@ print(round(totalTime,2))
 openImage = Image.open("barchart.png")
 openImage.show()
 
+print("cheese smeels")
+
 exit()
 
